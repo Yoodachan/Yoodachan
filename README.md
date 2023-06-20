@@ -14,9 +14,7 @@
 
 
 ### :art: Design Tools
-<img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&amp;logo=Adobe 
-Photoshop&amp;logoColor=white&amp;"/>
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&amp;logo=Adobe Illustrator&amp;logoColor=white&amp;"/> 
+<img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&amp;logo=AdobePhotoshop&amp;logoColor=white&amp"/><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&amp;logo=Adobe Illustrator&amp;logoColor=white&amp;"/> 
 <img src="https://img.shields.io/badge/XD-FF61F6?style=flat-square&amp;logo=Adobe XD&amp;logoColor=white&amp;"/> 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=Figma&amp;logoColor=white&amp;"/>
 
