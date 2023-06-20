@@ -1,8 +1,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoodachan&layout=compact&langs_count=5)](https://github.com/Yoodachan)
 
 ### :computer: Prontend
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white&amp;"/> 
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white&amp;"/> 
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white&amp;"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white&amp;"/> 
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&amp;logo=JQuery&amp;logoColor=white&amp;"/> 
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=white&amp;"/> 
